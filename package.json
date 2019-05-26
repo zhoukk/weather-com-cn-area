@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/zhoukk/weather-com-cn-area/issues"
   },
+  "private": false,
   "homepage": "https://github.com/zhoukk/weather-com-cn-area#readme"
 }
